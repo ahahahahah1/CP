@@ -1,0 +1,1 @@
+{"name":"Local: P5","url":"c:\\Users\\acer\\OneDrive\\Desktop\\CP\\Contest - 11th Oct\\P5.c","tests":[{"id":1665503296550,"input":"2\n5\n1 2 3 5 6\n3\n1 2 3","output":"12356\n123"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\acer\\OneDrive\\Desktop\\CP\\Contest - 11th Oct\\P5.c","group":"local","local":true}

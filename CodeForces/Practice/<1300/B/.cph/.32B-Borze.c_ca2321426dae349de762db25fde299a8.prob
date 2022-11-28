@@ -1,0 +1,1 @@
+{"name":"Local: 32B-Borze","url":"/home/siddhant/Codes/CP/CodeForces/Practice/<1300/B/32B-Borze.c","tests":[{"id":1668857721267,"input":".-.--\n","output":"012"},{"id":1668857724999,"input":"--.\n","output":"20"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/siddhant/Codes/CP/CodeForces/Practice/<1300/B/32B-Borze.c","group":"local","local":true}
