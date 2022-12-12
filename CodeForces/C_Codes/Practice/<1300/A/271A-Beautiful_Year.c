@@ -11,7 +11,7 @@ int checkUniqueDigits(int *a) {
 void increment(int *a) {
     int i = 3;
     a[i]++;
-    while(a[i] >= 9) {
+    while(i >= 0 && a[i] == 10) {
         a[i] = 0;
         i--;
         a[i]++;
